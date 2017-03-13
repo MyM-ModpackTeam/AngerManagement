@@ -1,4 +1,4 @@
-![Banner](media\400x200_banner.jpg)
+[Rage Quit](C:\Users\Duke BookerTheGeek\Documents\GitHub\RageQuit\media\400x200_banner.jpg)
 
 # Welcome to Rage Quit
 
