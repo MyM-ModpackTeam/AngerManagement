@@ -1,7 +1,7 @@
 {
   "0": {
     "minKills": 0,
-    "maxKills": 63,
+    "maxKills": 127,
     "checkPlayer": true,
     "checkLight": false,
     "checkRedstone": false,
@@ -9,8 +9,8 @@
     "cooldown": 0
   },
   "1": {
-    "minKills": 64,
-    "maxKills": 127,
+    "minKills": 128,
+    "maxKills": 319,
     "checkPlayer": true,
     "checkLight": true,
     "checkRedstone": false,
@@ -18,8 +18,8 @@
     "cooldown": 20
   },
   "2": {
-    "minKills": 128,
-    "maxKills": 255,
+    "minKills": 320,
+    "maxKills": 799,
     "checkPlayer": true,
     "checkLight": true,
     "checkRedstone": false,
@@ -27,8 +27,8 @@
     "cooldown": 10
   },
   "3": {
-    "minKills": 256,
-    "maxKills": 511,
+    "minKills": 800,
+    "maxKills": 1999,
     "checkPlayer": false,
     "checkLight": true,
     "checkRedstone": false,
@@ -36,8 +36,8 @@
     "cooldown": 5
   },
   "4": {
-    "minKills": 512,
-    "maxKills": 1023,
+    "minKills": 2000,
+    "maxKills": 4999,
     "checkPlayer": false,
     "checkLight": true,
     "checkRedstone": false,
@@ -45,8 +45,8 @@
     "cooldown": 5
   },
   "5": {
-    "minKills": 1024,
-    "maxKills": 1024,
+    "minKills": 5000,
+    "maxKills": 5000,
     "checkPlayer": false,
     "checkLight": false,
     "checkRedstone": true,
