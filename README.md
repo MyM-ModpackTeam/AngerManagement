@@ -6,6 +6,6 @@
 
 
 
-[Wiki]: Home.md
+[Wiki]: https://github.com/MyM-ModpackTeam/RageQuit/wiki
 [Mod List]: Forthcomming
 [Curse Project Page]: Forthcomming
