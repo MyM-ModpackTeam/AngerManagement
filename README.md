@@ -1,6 +1,6 @@
 ![Banner](media\400x200_banner.png)
 
-# Welcome to Anger Management
+# Welcome to Rage Quit
 
 * Please see the [Wiki] before submitting bug reports or suggestions
 * [Mod List]
