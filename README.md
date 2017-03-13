@@ -1,4 +1,4 @@
-![Banner](media\400x200_banner.png)
+![Banner](media\400x200_banner.jpg)
 
 # Welcome to Rage Quit
 
