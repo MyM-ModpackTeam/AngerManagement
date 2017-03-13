@@ -3,7 +3,7 @@
 * Please see the [Wiki] before submitting bug reports or suggestions
 * Mod List
 * Curse Project Page
-* [Curse Import File]
+* [Curse Import File] - Dev Version, Most Likely Unstable
 
 
 
