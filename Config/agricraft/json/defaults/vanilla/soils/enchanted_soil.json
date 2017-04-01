@@ -1,0 +1,18 @@
+{
+  "path": "vanilla/soils/enchanted_soil.json",
+  "enabled": true,
+  "id": "enchanted_soil",
+  "name": "Enchanted Soil",
+  "varients": [
+    {
+      "item": "botania:enchantedSoil",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}

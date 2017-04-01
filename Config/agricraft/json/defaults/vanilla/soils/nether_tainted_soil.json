@@ -1,0 +1,18 @@
+{
+  "path": "vanilla/soils/nether_tainted_soil.json",
+  "enabled": true,
+  "id": "nether_tainted_soil",
+  "name": "Tainted Soil",
+  "varients": [
+    {
+      "item": "natura:nether_tainted_soil",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}

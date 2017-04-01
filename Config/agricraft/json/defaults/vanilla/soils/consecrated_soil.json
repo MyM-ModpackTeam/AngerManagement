@@ -1,0 +1,18 @@
+{
+  "path": "vanilla/soils/consecrated_soil.json",
+  "enabled": true,
+  "id": "consecrated_soil",
+  "name": "Consecrated Soil",
+  "varients": [
+    {
+      "item": "tconstruct:soil",
+      "meta": 4,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "path": "vanilla/soils/double_compressed_sand.json",
+  "enabled": true,
+  "id": "double_compressed_sand",
+  "name": "Double Compressed Sand",
+  "varients": [
+    {
+      "item": "extrautils2:compressedsand",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "path": "vanilla/soils/slimy_magma_mud.json",
+  "enabled": true,
+  "id": "slimy_magma_mud",
+  "name": "Slimy Magma Mud",
+  "varients": [
+    {
+      "item": "tconstruct:soil",
+      "meta": 5,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}
+

@@ -1,0 +1,19 @@
+{
+  "path": "vanilla/soils/magma.json",
+  "enabled": true,
+  "id": "magma",
+  "name": "Magma Block",
+  "varients": [
+    {
+      "item": "minecraft:magma",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}
+

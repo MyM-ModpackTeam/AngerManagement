@@ -1,0 +1,19 @@
+{
+  "path": "vanilla/soils/double_compressed_gravel.json",
+  "enabled": true,
+  "id": "double_compressed_gravel",
+  "name": "Double Compressed Gravel",
+  "varients": [
+    {
+      "item": "extrautils2:compressedgravel",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}
+
