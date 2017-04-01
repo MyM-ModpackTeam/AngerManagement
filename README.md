@@ -10,4 +10,4 @@
 [Wiki]: https://github.com/MyM-ModpackTeam/RageQuit/wiki
 [Mod List]: Forthcomming
 [Curse Project Page]: Forthcomming
-[Curse Import File]: https://github.com/MyM-ModpackTeam/RageQuit/raw/master/CurseDevImport/Rage%20Quit-DEV-01.zip
+[Curse Import File]: https://github.com/MyM-ModpackTeam/RageQuit/raw/master/CurseDevImport/Rage%20Quit-b.zip
