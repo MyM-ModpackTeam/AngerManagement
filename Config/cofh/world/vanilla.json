@@ -1,7 +1,6 @@
 {
 	"populate": {
 		"dirt": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "dirt",
@@ -22,7 +21,6 @@
 			}
 		},
 		"gravel": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "gravel",
@@ -43,7 +41,6 @@
 			}
 		},
 		"diorite": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -69,7 +66,6 @@
 			}
 		},
 		"granite": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -95,7 +91,6 @@
 			}
 		},
 		"andesite": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -325,7 +320,6 @@
 			}
 		},
 		"silverfish": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
