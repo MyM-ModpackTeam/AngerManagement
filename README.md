@@ -3,11 +3,11 @@
 * Please see the [Wiki] before submitting bug reports or suggestions
 * Mod List
 * Curse Project Page
-* [Curse Import File] - Dev Version, Most Likely Unstable
+* [Curse Import File] - Dev Version, Use biggest numbered one
 
 
 
 [Wiki]: https://github.com/MyM-ModpackTeam/RageQuit/wiki
 [Mod List]: Forthcomming
 [Curse Project Page]: Forthcomming
-[Curse Import File]: https://github.com/MyM-ModpackTeam/RageQuit/raw/master/Curse%20Import/Rage%20Quit-DEV-03.zip
+[Curse Import File]: https://github.com/MyM-ModpackTeam/RageQuit/tree/master/Curse%20Import
